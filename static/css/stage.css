@@ -84,7 +84,7 @@ nav{
 }
 
 #stage2jours{
-	background: url("fond-css_3.jpg") no-repeat fixed;
+	background: url("../images/fond-css_3.jpg") no-repeat fixed;
 	background-size: cover;
 }
 
@@ -152,7 +152,7 @@ span{
 }
 
 .banner{
-	background: url("stationf2.png") no-repeat fixed;
+	background: url("../images/stationf2.png") no-repeat fixed;
 	font-size: 80em;
 }
 
@@ -160,7 +160,7 @@ span{
 	font-family: "Times New Roman", Georgia, serif;
 	font-size: 1.2em;
 	color: black;
-	background: url("fond-css_6.jpg") no-repeat fixed;
+	background: url("../images/fond-css_6.jpg") no-repeat fixed;
 	background-size: cover;
 	font-weight: bold;
 	text-align: justify;
@@ -210,7 +210,7 @@ span{
 }
 
 #description_flow{
-	background: url("fond-css_5.jpg") no-repeat fixed;
+	background: url("../images/fond-css_5.jpg") no-repeat fixed;
 	background-size: cover;
 }
 
@@ -351,7 +351,7 @@ span{
 	font-size: 1.5em;
 	text-align: left;
 	color: black;
-	background: url("conclusion.jpg") fixed no-repeat;
+	background: url("../images/conclusion.jpg") fixed no-repeat;
 	background-size: cover;
 	font-weight: bold;
 }
@@ -384,7 +384,7 @@ span{
 
 	.imagesdirigeants, .imagesdirigeants2, .imagesdirigeants3, .imagestationf, .imagestationf2, .banner, .HTML5CSS3, .OpenClassrooms, .conf, .flowlogo, .flowlogo2, .flowfoundersimage, .flowfounders, .thx, .thx2{
 		display: none;
-	}
+
 
 	.titreconclusion{
 		word-wrap: break-word;
