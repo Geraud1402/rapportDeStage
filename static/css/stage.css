@@ -384,7 +384,7 @@ span{
 @media only screen and (max-width: 1024px){
 
 	.imagesdirigeants, .imagesdirigeants2, .imagesdirigeants3, .imagestationf, .imagestationf2, .banner, .HTML5CSS3, .OpenClassrooms, .conf, .flowlogo, .flowlogo2, .flowfoundersimage, .flowfounders, .thx, .thx2{
-		display: none;
+		display: none;}
 
 
 	.titreconclusion{
