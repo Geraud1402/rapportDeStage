@@ -1,0 +1,393 @@
+#sommaire{
+	background: url("stage.jpg") no-repeat fixed;
+	background-size: cover;
+}
+
+h1{
+	border: 4px double green;
+	box-shadow: 3px 3px 0px green;
+	border-radius: 5px;
+	margin: 7px 7px 7px 7px;
+	padding: 3px 3px 3px 3px;
+	width: 50%;
+	margin-left: 25%;
+	text-align: center;
+	color: white;
+}
+
+nav{
+	border: 6px double green;
+	width: 50%;
+	border-radius: 2px;
+	margin-left: 25%;
+	display: flex;
+	flex-direction: column;
+	font-size: 2em;
+	padding: 2px 2px 2px 2px;
+}
+
+.presentation{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 1.5em;
+	color: black;
+	font-weight: bold;
+}
+
+
+
+.jours {
+	color: white;
+	text-shadow: 1px 1px 0px white;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	font-family: Georgia, "Tmes New Roman", serif;
+}
+
+.stationf{
+	color: white;
+	text-shadow: 1px 1px 0px white;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	font-family: Georgia, "Tmes New Roman", serif;
+}
+
+.flow{
+	color: white;
+	text-shadow: 1px 1px 0px white;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	font-family: Georgia, "Tmes New Roman", serif;
+}
+
+.conclusion{
+	color: white;
+	text-shadow: 1px 1px 0px white;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	font-family: Georgia, "Tmes New Roman", serif;
+}
+
+
+.h12{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 2em;
+	border: 6px double red;
+	width: 50%;
+	border-radius: 2px;
+	margin-left: 25%;
+	box-shadow: 3px 3px 0px red;
+	display: flex;
+	flex-direction: column;
+	font-size: 2em;
+	padding: 2px 2px 2px 2px;
+	color: maroon;
+}
+
+#stage2jours{
+	background: url("fond-css_3.jpg") no-repeat fixed;
+	background-size: cover;
+}
+
+#journées{
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 1.2em;
+	color: white;
+	background-size: cover;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+span{
+	text-decoration: underline;
+}
+
+.conclusion2{
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 1em;
+	border: 2px dashed black;
+	float: left;
+	width: 15%;
+	color: silver;
+	margin-top: 5px;
+	word-wrap: break-word;
+}
+
+
+.h13{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 2em;
+	border: 6px double blue;
+	width: 50%;
+	border-radius: 2px;
+	margin-left: 25%;
+	box-shadow: 3px 3px 0px blue;
+	display: flex;
+	flex-direction: column;
+	font-size: 2em;
+	padding: 2px 2px 2px 2px;
+	color: black;
+;
+}
+
+.flow2{
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 1em;
+	border: 2px dashed black;
+	float: left;
+	width: 15%;
+	color: black;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+#description_stationf{
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.4em;
+	color: black;
+	background-size: cover;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+.banner{
+	background: url("stationf2.png") no-repeat fixed;
+	font-size: 80em;
+}
+
+#stationf2{
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 1.2em;
+	color: black;
+	background: url("fond-css_6.jpg") no-repeat fixed;
+	background-size: cover;
+	font-weight: bold;
+	text-align: justify;
+}
+
+.dirigeant{
+	border: 4px dashed black;
+	width: 95%;
+	height: 100%;
+	font-size: 1em;
+	color: blue;
+	font-weight: bold;
+	padding: 5px 3px 5px 3px;
+}
+
+#les2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.h14{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 2em;
+	border: 6px double purple;
+	width: 50%;
+	border-radius: 2px;
+	margin-left: 25%;
+	box-shadow: none;
+	display: flex;
+	flex-direction: column;
+	font-size: 2em;
+	padding: 2px 2px 2px 2px;
+	color: blue;
+}
+
+.ckoi{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 1.7em;
+	text-align: center;
+	border: 4px groove purple;
+	width: 50%;
+	padding: 1.5px 1.5px 1.5px 1.5px;
+	font-weight: bold;
+	color: purple;
+	margin-left: 20%;
+}
+
+#description_flow{
+	background: url("fond-css_5.jpg") no-repeat fixed;
+	background-size: cover;
+}
+
+#textflow{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 1.5em;
+	color: blue;
+	text-align: left;
+	width: 1300px;
+
+}
+
+.linkjours{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 1em;
+	color: silver;
+	border: 3px dashed black;
+	padding: 5px 5px 5px 5px;
+	float: left;
+	width: 15%;
+}
+
+.imagestationf{
+	width: 50%;
+	height: 80%;
+	margin-left: 26%;
+	border-radius: 7px;
+}
+
+.imagestationf2{
+	width: 70%;
+	height: 70%;
+	border-radius: 7px;
+}
+
+#pictures{
+	display: flex;
+	flex-direction: column;
+}
+
+.imagesdirigeants{
+	height: 45%;
+	float: right;
+	margin-right: 40%;
+	border-radius: 7px;
+}
+
+.imagesdirigeants2{
+	height: 30%;
+	float: right;
+	margin-right: 40%;
+	border-radius: 7px;
+}
+
+.imagesdirigeants3{
+	height: 90%;
+	float: right;
+	margin-right: 40%;
+	border-radius: 7px;
+}
+
+.li2{
+	width: 50%;
+}
+
+.HTML5CSS3{
+	float: left;
+}
+
+.OpenClassrooms{
+	float: right;
+	height: 20%;
+	width: 20%;
+}
+
+.conf{
+	float: left;
+	height: 40%;
+	width: 40%;
+	margin: 13px;
+	border-radius: 7px;
+
+}
+
+#allign{
+	display: flex;
+	flex-direction: column;
+}
+
+#flowlogo{
+	width: 30%;
+	margin-left: 50%;
+	margin-right: 50%;
+}
+
+#flowlogo2{
+	float: right;
+	width: 25%;
+	opacity: 0.5;
+}
+
+.flowfounders{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 1.5em;
+	color: white;
+	border: 3px solid purple;
+	opacity: 1;
+	padding: 5px 5px 5px 5px;
+	width: 50%;
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+}
+
+.flowfoundersimage:hover{
+	width: 300px;
+	height: 300px;
+}
+
+.flowfoundersimage{
+	float: right;
+	width: 200px;
+	height: 200px;
+	border-radius: 5px;
+}
+
+.contacter{
+	float: right;
+	border: 3px dashed purple;
+	width: 40%;
+	border-radius: 10px;
+	font-size: 1.6em;
+	padding: 5px;
+}
+
+#conclusion{
+	font-family: Georgia, "Tmes New Roman", serif;
+	font-size: 1.5em;
+	text-align: left;
+	color: black;
+	background: url("conclusion.jpg") fixed no-repeat;
+	background-size: cover;
+	font-weight: bold;
+}
+
+.titreconclusion{
+	margin-left: 36%;
+	font-size: 2em;
+	border: 8px groove white;
+	width: 22%;
+	padding: 8px;
+	border-radius: 5px;
+}
+.thx{
+	margin-left: 40%;
+}
+
+.thx2{
+	width: 250px;
+	height: 250px;
+	display: flex;
+	flex-direction: row;
+	margin-left: 30%;
+	justify-content: space-around;
+	border-radius: 7px;
+
+}
+
+
+@media only screen and (max-width: 1024px){
+
+	.imagesdirigeants, .imagesdirigeants2, .imagesdirigeants3, .imagestationf, .imagestationf2, .banner, .HTML5CSS3, .OpenClassrooms, .conf, .flowlogo, .flowlogo2, .flowfoundersimage, .flowfounders, .thx, .thx2{
+		display: none;
+	}
+
+	.titreconclusion{
+		word-wrap: break-word;
+	}
+
+}
